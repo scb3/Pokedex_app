@@ -34,21 +34,7 @@ isLoaded: false
     } else {
     return (
     <div className="App">
-      <div>
-     <nav>
-         <ul id="navigation">
-             <li>
-                 <Link to="/">Home</Link>
-             </li>
-             <li>
-                 <Link to="/about">About</Link>
-             </li>
-             <li>
-                 <Link to="/contact">Contact</Link>
-             </li>
-         </ul>
-     </nav>
-</div>
+     
     <ul>
     {items.results.map((item) => ( //Map Object from PokeAPI to a List
     <li key={item.id}>
