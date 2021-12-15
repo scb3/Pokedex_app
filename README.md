@@ -10,7 +10,7 @@ Still WIP
 
 TODO:
 CSS
-Linking Monsters to React Created Cards
+Linking Monsters to React Created Cards - Done
 SPA / Continuous scroll
 Search bar
 
